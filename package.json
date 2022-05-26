@@ -1,0 +1,23 @@
+{
+  "name": "ci-testes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://daniel-souza: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@github.com/daniel-souza/ci-testes-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-souza/ci-testes-node/issues"
+  },
+  "homepage": "https://github.com/daniel-souza/ci-testes-node#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
